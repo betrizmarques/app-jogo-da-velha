@@ -2,5 +2,6 @@
 
 Um projeto em Flutter.
 
-## Sobre
-App desenvolvido com o intuito de aprender a programar em linguegem dart.
+App desenvolvido com o intuito de aprender a programar o básico de linguegem dart, para as aulas de Desenvolvimento WEB da UEPG, lecionadas pelo professor Ariangelo Dias.
+
+
